@@ -91,7 +91,7 @@ function Badge( {title, progPer} ){
     <div class="bg-white max-w-sm rounded-md hover:bg-gray-200 overflow-hidden shadow mb-8 mt-4 mr-12 w-48 transition duration-500 ease-in-out transform hover:-translate-y-4 hover:scale-125">
       <div class=''>
         <div class="font-semibold text-sm text-green-800 pb-4 px-2 py-4">{title}</div>
-        <div className="w-full h-48 mr-4 bg-contain" style={{ backgroundImage: `url(${require('./components/one.jpg')})` }}></div>
+        <div className="w-full h-48 mr-4 bg-contain" style={{ backgroundImage: `url(${require('./components/completion2.jpg')})` }}></div>
         <p className='w-full text-center text-xl font-medium text-white bg-blue-500 my-2 mx-2 rounded'> Share </p>
       </div>
     </div>
